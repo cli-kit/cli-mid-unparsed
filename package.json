@@ -24,7 +24,7 @@
     "unparsed"
   ],
   "dependencies": {
-    "cli-types": "0.0.7"
+    "cli-types": "^0.0.7"
   },
   "devDependencies": {
     "chai": "^1.9.1",
